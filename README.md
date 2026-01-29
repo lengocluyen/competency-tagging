@@ -207,7 +207,7 @@ If you use this pipeline in your research, please cite:
 ```bibtex
 @software{competency_tagging_pipeline,
   title={From Learning Resources to Competencies: LLM-Based Tagging with Evidence and Graph Constraints},
-  author={Ngoc Luyen Le},
+  author={Ngoc Luyen Le, Marie-Hélène Abel, Bertrand Laforge},
   year={2026},
   url={https://github.com/yourusername/competency-tagging}
 }
