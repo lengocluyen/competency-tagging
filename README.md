@@ -133,7 +133,7 @@ python -m src.runner \
 
 ## Pipeline Overview
 
-![Pipeline Framework](figures/framework.png)
+![Pipeline Framework](figures/framework.pdf)
 
 For a high-resolution version, see: [figures/framework.pdf](figures/framework.pdf)
 
