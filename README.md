@@ -19,7 +19,6 @@ A robust, production-ready pipeline for competency tagging with evidence extract
 pip install -r requirements.txt
 ```
 
-
 ## Project Structure
 
 ```
@@ -53,6 +52,7 @@ pip install -r requirements.txt
 ## Data Format
 
 ### Competencies (`data/competencies_utc.jsonl`)
+
 ```json
 {
   "competency_id": "C001",
@@ -69,6 +69,7 @@ pip install -r requirements.txt
 ```
 
 ### Fragments (`data/resources_fragments/<UV>_fragments.jsonl`)
+
 ```json
 {
   "fragment_id": "F001",
@@ -81,6 +82,7 @@ pip install -r requirements.txt
 ```
 
 ### Gold Annotations (`data/golds_fragments/<UV>_gold_fragments.jsonl`)
+
 ```json
 {
   "fragment_id": "F001",
@@ -117,7 +119,6 @@ export OPENAI_API_KEY="your-api-key-here"
 
 ### Run Experiment
 
-
 ```bash
 python -m src.runner \
   --data_dir data/resources_fragments \
@@ -127,65 +128,73 @@ python -m src.runner \
   --output_dir output
 ```
 
-
 ## Output
-
 
 ## Pipeline Overview
 
-![Pipeline Framework](figures/framework.pdf)
+![Pipeline Framework](figures/framework.png)
 
 For a high-resolution version, see: [figures/framework.pdf](figures/framework.pdf)
 
 ## Pipeline Stages
 
 ### 1. Candidate Retrieval
+
 Uses BM25 to retrieve top-K competency candidates based on fragment text similarity to competency profiles (label + description + keywords + aliases).
 
 ### 2. LLM Tagging
+
 Calls OpenAI API with:
+
 - Fragment text
 - Candidate competencies
 - Structured output format (JSON)
 
 Returns:
+
 - Selected competencies with confidence scores
 - Evidence (quote, start_char, end_char)
 - None flag if no competencies apply
 
 ### 3. Evidence Validation & Repair
+
 - Validates that evidence quotes match fragment text at specified positions
 - Attempts automatic repair if quote found elsewhere in text
 - Filters invalid predictions
 
 ### 4. Graph Reconciliation
+
 - **Parent-child redundancy**: Removes parent if child present (unless only parent has evidence)
 - **Prerequisite checking**: Flags violations where competency predicted without its prerequisites
 - **Label capping**: Limits to max_labels_per_fragment
 
 ### 5. Resource Aggregation
+
 Aggregates fragment predictions to resource level:
+
 - **Max method**: Takes maximum confidence across fragments
 - **Weighted sum**: Uses fragment type weights and averages
 - Applies threshold τ and selects top-K per resource
 
-
 ### 6. Evaluation
+
 Computes comprehensive metrics:
 
 **Fragment-level:**
+
 - Micro Precision/Recall/F1
 - Macro F1 (per fragment)
 - Mean Reciprocal Rank (MRR): Measures the average rank position of the first correct competency prediction for each fragment, reflecting ranking quality.
 
 **Evidence:**
+
 - Evidence valid rate
 - Evidence overlap (character IoU)
 
 **Resource-level:**
+
 - Macro F1 (per resource)
 - Micro Precision/Recall/F1
-
 
 ## License
 
