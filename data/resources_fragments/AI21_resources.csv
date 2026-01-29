@@ -1,0 +1,20 @@
+
+resource_id,uv_id,uv_title,source,resource_type,title,url,language,license,collected_at,download_allowed
+R501,AI21,AI21,MIT OCW,course,Introduction to Computer Science and Programming in Python (6.0001),https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/,en,CC BY-NC-SA 4.0,2026-01-12T13:22:47+01:00,true
+R502,AI21,AI21,MIT OCW,course,Introduction to CS and Programming using Python (6.100L),https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/,en,CC BY-NC-SA 4.0,2026-01-12T13:22:47+01:00,true
+R503,AI21,AI21,MIT OCW,course,Introduction to Computational Thinking and Data Science (6.0002),https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/,en,CC BY-NC-SA 4.0,2026-01-12T13:22:47+01:00,true
+R504,AI21,AI21,MIT OCW,course,Introduction to Algorithms (6.006),https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/,en,CC BY-NC-SA 4.0,2026-01-12T13:22:47+01:00,true
+R505,AI21,AI21,MIT OCW,course,Design and Analysis of Algorithms (6.046J),https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/,en,CC BY-NC-SA 4.0,2026-01-12T13:22:47+01:00,true
+R506,AI21,AI21,MIT OCW,course,Foundations of Software Engineering (1.124J),https://ocw.mit.edu/courses/1-124j-foundations-of-software-engineering-fall-2000/,en,CC BY-NC-SA 4.0,2026-01-12T13:22:47+01:00,true
+R507,AI21,AI21,MIT OCW,course,Software Engineering for Web Applications (6.171),https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/,en,CC BY-NC-SA 4.0,2026-01-12T13:22:47+01:00,true
+R508,AI21,AI21,MIT OCW,course,Software Engineering Concepts (16.355J),https://ocw.mit.edu/courses/16-355j-software-engineering-concepts-fall-2005/,en,CC BY-NC-SA 4.0,2026-01-12T13:22:47+01:00,true
+R509,AI21,AI21,MIT OCW,course,Laboratory in Software Engineering (6.170),https://ocw.mit.edu/courses/6-170-laboratory-in-software-engineering-fall-2005/,en,CC BY-NC-SA 4.0,2026-01-12T13:22:47+01:00,true
+R510,AI21,AI21,MIT OCW,course,Performance Engineering of Software Systems (6.172),https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/,en,CC BY-NC-SA 4.0,2026-01-12T13:22:47+01:00,true
+R511,AI21,AI21,MIT OCW,course,Software Construction (6.005),https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/,en,CC BY-NC-SA 4.0,2026-01-12T13:22:47+01:00,true
+R512,AI21,AI21,MIT OCW,exercises,Software Construction Readings and Problem Sets (6.005),https://ocw.mit.edu/ans7870/6/6.005/s16/,en,CC BY-NC-SA 4.0,2026-01-12T13:22:47+01:00,true
+R513,AI21,AI21,MIT OCW,exercises,Performance Engineering Quizzes (6.172),https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/pages/quizzes/,en,CC BY-NC-SA 4.0,2026-01-12T13:22:47+01:00,true
+R514,AI21,AI21,OpenStax,section,Programming Language Foundations (7.1),https://openstax.org/books/introduction-computer-science/pages/7-1-programming-language-foundations,en,CC BY 4.0,2026-01-12T13:22:47+01:00,true
+R515,AI21,AI21,OpenStax,section,Programming Language Constructs (7.2),https://openstax.org/books/introduction-computer-science/pages/7-2-programming-language-constructs,en,CC BY 4.0,2026-01-12T13:22:47+01:00,true
+R516,AI21,AI21,OpenStax,section,Alternative Programming Models (7.3),https://openstax.org/books/introduction-computer-science/pages/7-3-alternative-programming-models,en,CC BY 4.0,2026-01-12T13:22:47+01:00,true
+R517,AI21,AI21,OpenStax,section,Programming Language Implementation (7.4),https://openstax.org/books/introduction-computer-science/pages/7-4-programming-language-implementation,en,CC BY 4.0,2026-01-12T13:22:47+01:00,true
+R518,AI21,AI21,OpenStax,exercises,Practice Exercises (Chapter 7),https://openstax.org/books/introduction-computer-science/pages/7-practice-exercises,en,CC BY 4.0,2026-01-12T13:22:47+01:00,true

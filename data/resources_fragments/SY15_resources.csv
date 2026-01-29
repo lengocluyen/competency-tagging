@@ -1,0 +1,17 @@
+
+resource_id,uv_id,uv_title,source,resource_type,title,url,language,license,collected_at,download_allowed
+R001,SY15,SY15,MIT OpenCourseWare,Course,Underactuated Robotics,https://opencw.aprende.org/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/syllabus/,English,CC BY-NC-SA 4.0,2026-01-12T15:00:00+01:00,true
+R002,SY15,SY15,MIT OpenCourseWare,Course,Principles of Optimal Control,https://ocw.mit.edu/courses/16-323-principles-of-optimal-control-spring-2008/,English,CC BY-NC-SA 4.0,2026-01-12T15:00:00+01:00,true
+R003,SY15,SY15,MIT OpenCourseWare,Course,Introduction to Robotics,https://ocw.mit.edu/courses/2-12-introduction-to-robotics-fall-2005/,English,CC BY-NC-SA 4.0,2026-01-12T15:00:00+01:00,true
+R004,SY15,SY15,MIT OpenCourseWare,Course,Robotic Manipulation,https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/,English,CC BY-NC-SA 4.0,2026-01-12T15:00:00+01:00,true
+R005,SY15,SY15,MIT OpenCourseWare,Course,Dynamic Systems and Control,https://ocw.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011/,English,CC BY-NC-SA 4.0,2026-01-12T15:00:00+01:00,true
+R006,SY15,SY15,Pressbooks (MTSU),Open Textbook,Robotics and Controls Engineering,https://mtsu.pressbooks.pub/robotics/,English,CC BY-NC-SA 4.0,2026-01-12T15:00:00+01:00,true
+R007,SY15,SY15,Pressbooks (Ryerson University),Open Textbook,Introduction to Control Systems,https://pressbooks.library.torontomu.ca/controlsystems/,English,CC BY-NC,2026-01-12T15:00:00+01:00,true
+R008,SY15,SY15,Open Textbook Library,Open Textbook,Introduction to Autonomous Robots,https://open.umn.edu/opentextbooks/textbooks/316,English,CC BY-NC,2026-01-12T15:00:00+01:00,true
+R009,SY15,SY15,Open Textbook Library,Open Textbook,Chemical Process Dynamics and Controls,https://open.umn.edu/opentextbooks/textbooks/chemical-process-dynamics-and-controls,English,CC BY,2026-01-12T15:00:00+01:00,true
+R010,SY15,SY15,Independent PDF,Open Book,Controls Engineering in the FIRST Robotics Competition,https://file.tavsys.net/control/controls-engineering-in-frc.pdf,English,CC BY-SA 4.0,2026-01-12T15:00:00+01:00,true
+R011,SY15,SY15,AIMS Press,Journal Article,Interactive MATLAB based project learning in a robotics course,https://www.aimsciences.org/article/doi/10.3934/steme.2021003,English,CC BY 4.0,2026-01-12T15:00:00+01:00,true
+R012,SY15,SY15,TU Delft OpenCourseWare,Project Page,Control Systems and Dynamic Modeling (Formula Student Team Delft),https://ocw.tudelft.nl/projects/formula-student-team-delft/control-systems-dynamic-modeling/,English,CC BY-NC-SA 4.0,2026-01-12T15:00:00+01:00,true
+R013,SY15,SY15,MDPI Books,Open Book,Cognitive Robotics & Control,https://www.mdpi.com/books/reprint/2381-cognitive-robotics-control,English,CC BY-NC-ND,2026-01-12T15:00:00+01:00,true
+R014,SY15,SY15,MIT OpenCourseWare,Course,Systems and Controls,https://ocw.mit.edu/courses/2-04a-systems-and-controls-spring-2013/,English,CC BY-NC-SA 4.0,2026-01-12T15:00:00+01:00,true
+R015,SY15,SY15,FBSwiki (Caltech),Open Textbook,Feedback Systems: An Introduction for Scientists and Engineers,https://fbswiki.org,English,CC BY-NC-SA,2026-01-12T15:00:00+01:00,false

@@ -1,0 +1,21 @@
+
+resource_id,uv_id,uv_title,source,resource_type,title,url,language,license,collected_at,download_allowed
+R001,AI28,AI28,OpenStax,textbook section,1.1 What Is Data Science?,https://openstax.org/books/principles-data-science/pages/1-1-what-is-data-science,en,CC BY 4.0,2026-01-12T11:20:00+01:00,true
+R002,AI28,AI28,OpenStax,textbook section,1.2 Data Science in Practice,https://openstax.org/books/principles-data-science/pages/1-2-data-science-in-practice,en,CC BY 4.0,2026-01-12T11:21:00+01:00,true
+R003,AI28,AI28,OpenStax,textbook section,6.1 What Is Machine Learning?,https://openstax.org/books/principles-data-science/pages/6-1-what-is-machine-learning,en,CC BY 4.0,2026-01-12T11:22:00+01:00,true
+R004,AI28,AI28,OpenStax,textbook section,6.2 Classification Using Machine Learning,https://openstax.org/books/principles-data-science/pages/6-2-classification-using-machine-learning,en,CC BY 4.0,2026-01-12T11:23:00+01:00,true
+R005,AI28,AI28,OpenStax,textbook section,6.3 Machine Learning in Regression Analysis,https://openstax.org/books/principles-data-science/pages/6-3-machine-learning-in-regression-analysis,en,CC BY 4.0,2026-01-12T11:24:00+01:00,true
+R006,AI28,AI28,OpenStax,textbook section,6.4 Decision Trees,https://openstax.org/books/principles-data-science/pages/6-4-decision-trees,en,CC BY-NC-SA 4.0,2026-01-12T11:25:00+01:00,true
+R007,AI28,AI28,OpenStax,textbook section,8.1 Ethics in Data Collection,https://openstax.org/books/principles-data-science/pages/8-1-ethics-in-data-collection,en,CC BY 4.0,2026-01-12T11:26:00+01:00,true
+R008,AI28,AI28,OpenStax,textbook section,8.2 Ethics in Data Analysis and Modeling,https://openstax.org/books/principles-data-science/pages/8-2-ethics-in-data-analysis-and-modeling,en,CC BY 4.0,2026-01-12T11:27:00+01:00,true
+R009,AI28,AI28,OpenStax,textbook section,8.3 Ethics in Visualization and Reporting,https://openstax.org/books/principles-data-science/pages/8-3-ethics-in-visualization-and-reporting,en,CC BY 4.0,2026-01-12T11:28:00+01:00,true
+R010,AI28,AI28,OpenStax,textbook section,9.5 Multivariate and Network Data Visualization Using Python,https://openstax.org/books/principles-data-science/pages/9-5-multivariate-and-network-data-visualization-using-python,en,CC BY 4.0,2026-01-12T11:29:00+01:00,true
+R011,AI28,AI28,Pressbooks (Data Science),textbook chapter,Classification I: Training & Predicting,https://pressbooks.bccampus.ca/datascienceintro/chapter/5-5-classification-with-k-nearest-neighbors/,en,CC BY-NC-SA 4.0,2026-01-12T11:30:00+01:00,true
+R012,AI28,AI28,Pressbooks (Data Science),textbook chapter,Effective Data Visualization,https://pressbooks.bccampus.ca/datascienceintro/chapter/4-effective-data-visualization/,en,CC BY-NC-SA 4.0,2026-01-12T11:31:00+01:00,true
+R013,AI28,AI28,Pressbooks (Data Science),textbook chapter,Regression I: K‑Nearest Neighbors,https://pressbooks.bccampus.ca/datascienceintro/chapter/7-regression-i-k-nearest-neighbors/,en,CC BY-NC-SA 4.0,2026-01-12T11:32:00+01:00,true
+R014,AI28,AI28,Pressbooks (Data Science),textbook chapter,Clustering,https://pressbooks.bccampus.ca/datascienceintro/chapter/9-clustering/,en,CC BY-NC-SA 4.0,2026-01-12T11:33:00+01:00,true
+R015,AI28,AI28,Pressbooks (Data Science),textbook chapter,Reading in Data Locally and from the Web,https://express.excelsior.edu/datascienceintro/chapter/chapter-2-reading-in-data-locally-and-from-the-web-data-science/,en,CC BY-NC-SA 4.0,2026-01-12T11:34:00+01:00,true
+R016,AI28,AI28,Pressbooks (Data Science),textbook chapter,Cleaning and Wrangling Data,https://express.excelsior.edu/datascienceintro/chapter/chapter-3-cleaning-and-wrangling-data-data-science/,en,CC BY-NC-SA 4.0,2026-01-12T11:35:00+01:00,true
+R017,AI28,AI28,MIT OpenCourseWare,course description,Introduction to Machine Learning (6.036),https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/,en,CC BY-NC-SA 4.0,2026-01-12T11:36:00+01:00,true
+R018,AI28,AI28,MIT OpenCourseWare,course description,Machine Learning (6.867),https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/,en,CC BY-NC-SA 4.0,2026-01-12T11:37:00+01:00,true
+R019,AI28,AI28,MIT OpenCourseWare,course description,Advanced Natural Language Processing (6.864),https://ocw.mit.edu/courses/6-864-advanced-natural-language-processing-fall-2005/,en,CC BY-NC-SA 4.0,2026-01-12T11:38:00+01:00,true

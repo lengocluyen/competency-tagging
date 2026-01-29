@@ -1,0 +1,19 @@
+
+resource_id,uv_id,uv_title,source,resource_type,title,url,language,license,collected_at,download_allowed
+R801,AI39,AI39,GNSS-SDR,tutorial,Cross-compiling tutorial for GNSS-SDR,https://gnss-sdr.org/docs/real-time/cross-compiling/,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R802,AI39,AI39,ArchWiki,article,ArchWiki cross‑compiling tools guidelines,https://wiki.archlinux.org/title/Cross-compiling_Tools_and_Toolchain#General_Rules,en,GNU Free Documentation License 1.3,2026-01-12T10:00:00+01:00,true
+R803,AI39,AI39,Lumen Learning,page,Lumen Learning: Operating System,https://courses.lumenlearning.com/sanjacinto-computerapps/chapter/operating-system/,en,CC BY-SA,2026-01-12T10:00:00+01:00,true
+R804,AI39,AI39,Lumen Learning,page,Lumen Learning: Software – Operating Systems section,https://courses.lumenlearning.com/sanjacinto-informationliteracy/chapter/software/,en,CC BY-SA,2026-01-12T10:00:00+01:00,true
+R805,AI39,AI39,Lumen Learning,page,Lumen Learning: Firmware,https://courses.lumenlearning.com/sanjacinto-informationliteracy/chapter/firmware/,en,CC BY-SA,2026-01-12T10:00:00+01:00,true
+R806,AI39,AI39,MIT OCW,course,MIT Operating System Engineering,https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2023/,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R807,AI39,AI39,MIT OCW,course,MIT Computer System Engineering,https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R808,AI39,AI39,MIT OCW,course,MIT Visual Navigation for Autonomous Vehicles,https://ocw.mit.edu/courses/16-485-visual-navigation-for-autonomous-vehicles-fall-2022/,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R809,AI39,AI39,MIT OCW,exercise,MIT 6.004 Interrupts and real‑time tutorial problems,https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/tutorial-problems/interrupts-and-real-time/,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R810,AI39,AI39,OpenStax,section,OpenStax: 6.1 What Is an Operating System?,https://openstax.org/books/introduction-computer-science/pages/6-1-what-is-an-operating-system,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R811,AI39,AI39,OpenStax,section,OpenStax: 6.2 Fundamental OS Concepts,https://openstax.org/books/introduction-computer-science/pages/6-2-fundamental-os-concepts,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R812,AI39,AI39,OpenStax,section,OpenStax: 6.3 Processes and Concurrency,https://openstax.org/books/introduction-computer-science/pages/6-3-processes-and-concurrency,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R813,AI39,AI39,OpenStax,section,OpenStax: 6.4 Memory Management,https://openstax.org/books/introduction-computer-science/pages/6-4-memory-management,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R814,AI39,AI39,OpenStax,section,OpenStax: 6.5 File Systems,https://openstax.org/books/introduction-computer-science/pages/6-5-file-systems,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R815,AI39,AI39,OpenStax,section,OpenStax: 6.6 Reliability and Security,https://openstax.org/books/introduction-computer-science/pages/6-6-reliability-and-security,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R816,AI39,AI39,OpenStax,exercise,OpenStax: Chapter 6 Review Questions,https://openstax.org/books/introduction-computer-science/pages/6-review-questions,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R817,AI39,AI39,Wikipedia,article,Wikipedia: Real‑time operating system,https://en.wikipedia.org/wiki/Real-time_operating_system,en,CC BY-SA 4.0,2026-01-12T10:00:00+01:00,true

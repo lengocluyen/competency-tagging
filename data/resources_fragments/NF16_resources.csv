@@ -1,0 +1,17 @@
+
+resource_id,uv_id,uv_title,source,resource_type,title,url,language,license,collected_at,download_allowed
+R001,NF16,NF16,MIT OpenCourseWare,Course,6.005 Software Construction (Spring 2016),https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/,English,CC BY-NC-SA 4.0,2026-01-12T15:00:00+01:00,true
+R002,NF16,NF16,MIT OpenCourseWare,Course,Foundations of Software Engineering (Fall 2000),https://ocw.mit.edu/courses/1-124j-foundations-of-software-engineering-fall-2000/,English,CC BY-NC-SA 4.0,2026-01-12T15:00:00+01:00,true
+R003,NF16,NF16,MIT OpenCourseWare,Course,Elements of Software Construction (Fall 2008),https://ocw.mit.edu/courses/6-005-elements-of-software-construction-fall-2008/,English,CC BY-NC-SA 4.0,2026-01-12T15:00:00+01:00,true
+R004,NF16,NF16,MIT OpenCourseWare,Course,Laboratory in Software Engineering (Fall 2005),https://ocw.mit.edu/courses/6-170-laboratory-in-software-engineering-fall-2005/,English,CC BY-NC-SA 4.0,2026-01-12T15:00:00+01:00,true
+R005,NF16,NF16,FUN MOOC,MOOC,Reproducible Research II: Practices and tools for managing computations and data,https://www.fun-mooc.fr/en/courses/reproducible-research-ii-practices-and-tools-for-managing-computations-and-data/,French,CC BY-NC,2026-01-12T15:00:00+01:00,true
+R006,NF16,NF16,Oregon State University Open Textbook,Textbook,Handbook of Software Engineering Methods,https://open.oregonstate.education/software-methods/,English,CC BY-NC 4.0,2026-01-12T15:00:00+01:00,true
+R007,NF16,NF16,The rse‑book project,Book,Research Software Engineering,https://rse‑book.github.io/,English,CC BY-NC-SA 4.0,2026-01-12T15:00:00+01:00,true
+R008,NF16,NF16,Kansas State University Textbook,Course Textbook,CIS 642/643: Software Engineering,https://textbooks.cs.ksu.edu/cis642/intro.html,English,CC BY-NC-SA 4.0,2026-01-12T15:00:00+01:00,true
+R009,NF16,NF16,University of North Texas,Workbook,Software Engineering Workbook for Team Projects,https://openbooks.library.unt.edu/software-engineering-workbook/,English,CC BY-NC 4.0,2026-01-12T15:00:00+01:00,true
+R010,NF16,NF16,Saylor Academy,Course,CS302: Software Engineering,https://learn.saylor.org/course/view.php?id=9,English,CC BY 3.0,2026-01-12T15:00:00+01:00,true
+R011,NF16,NF16,CUNY Hunter College,Syllabus,CSCI 40500/77100: Software Engineering (Syllabus),https://khatchad.commons.gc.cuny.edu/teaching/csci-40500-77100-software-engineering-sp-21/syllabus/,English,CC BY-NC-SA 4.0,2026-01-12T15:00:00+01:00,true
+R012,NF16,NF16,Grinnell College,Syllabus,Software Design Principles and Practices (CSC 321) Syllabus,https://rebelsky.cs.grinnell.edu/Courses/CSC321/2018S/home/syllabus,English,CC BY-NC 3.0,2026-01-12T15:00:00+01:00,true
+R013,NF16,NF16,Georgia Gwinnett College,Course resource,Intermediate Agile Software Development,https://soft-eng-practicum.github.io/softdev2-resources/,English,CC BY-SA 4.0,2026-01-12T15:00:00+01:00,true
+R014,NF16,NF16,University of Washington,Book,Cooperative Software Development,https://faculty.washington.edu/ajko/books/cooperative-software-development/,English,CC BY-ND 4.0,2026-01-12T15:00:00+01:00,true
+R015,NF16,NF16,OpenStax,Textbook chapter,Introduction to Computer Science – Software Engineering Fundamentals (Chapter 9.1),https://openstax.org/books/introduction-computer-science/pages/9-1-software-engineering-fundamentals,English,CC BY 4.0,2026-01-12T15:00:00+01:00,true

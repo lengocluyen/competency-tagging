@@ -1,0 +1,20 @@
+
+resource_id,uv_id,uv_title,source,resource_type,title,url,language,license,collected_at,download_allowed
+R001,SR01,SR01,MIT OCW,course,Foundations of Software Engineering,https://ocw.mit.edu/courses/1-124j-foundations-of-software-engineering-fall-2000/,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R002,SR01,SR01,MIT OCW,course,Software Engineering for Web Applications,https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R003,SR01,SR01,MIT OCW,course,Software Engineering Concepts,https://ocw.mit.edu/courses/16-355j-software-engineering-concepts-fall-2005/,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R004,SR01,SR01,MIT OCW,course,Laboratory in Software Engineering,https://ocw.mit.edu/courses/6-170-laboratory-in-software-engineering-fall-2005/,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R005,SR01,SR01,MIT OCW,course,Performance Engineering of Software Systems,https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R006,SR01,SR01,MIT OCW,course,Software Construction,https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R007,SR01,SR01,MIT OCW,exercises,Software Construction Site (Problem Sets and Quizzes),https://ocw.mit.edu/ans7870/6/6.005/s16/,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R008,SR01,SR01,MIT OCW,exercises,Performance Engineering Quizzes,https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/pages/quizzes/,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R009,SR01,SR01,OpenStax,section,Software Engineering Fundamentals (OpenStax),https://openstax.org/books/introduction-computer-science/pages/9-1-software-engineering-fundamentals,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R010,SR01,SR01,OpenStax,section,Software Engineering Process (OpenStax),https://openstax.org/books/introduction-computer-science/pages/9-2-software-engineering-process,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R011,SR01,SR01,OpenStax,section,Special Topics in Software Engineering (OpenStax),https://openstax.org/books/introduction-computer-science/pages/9-3-special-topics,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R012,SR01,SR01,OpenStax,exercises,Review Questions (OpenStax),https://openstax.org/books/introduction-computer-science/pages/9-4-review-questions,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R013,SR01,SR01,OpenStax,exercises,Practice Exercises (OpenStax),https://openstax.org/books/introduction-computer-science/pages/9-4-practice-exercises,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R014,SR01,SR01,OpenStax,exercises,Problem Set A (OpenStax),https://openstax.org/books/introduction-computer-science/pages/9-4-problem-set-a,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R015,SR01,SR01,OpenStax,section,Chapter 9 Summary (OpenStax),https://openstax.org/books/introduction-computer-science/pages/9-5-summary,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R016,SR01,SR01,OpenStax,exercise,Labs (OpenStax),https://openstax.org/books/introduction-computer-science/pages/10-4-labs,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R017,SR01,SR01,OpenStax,section,Solution Architecture Management (OpenStax),https://openstax.org/books/introduction-computer-science/pages/10-3-solution-architecture-management,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R018,SR01,SR01,Lumen Learning,section,Reading: Software Development Process,https://courses.lumenlearning.com/sanjacinto-computerapps/chapter/reading-software-development-process/,en,CC BY,2026-01-12T10:00:00+01:00,true

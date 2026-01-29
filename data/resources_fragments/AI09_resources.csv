@@ -1,0 +1,17 @@
+
+resource_id,uv_id,uv_title,source,resource_type,title,url,language,license,collected_at,download_allowed
+R001,AI09,AI09,OpenStax,textbook section,Linear Programming (Contemporary Mathematics),https://openstax.org/books/contemporary-mathematics/pages/5-11-linear-programming,en,CC BY 4.0,2026-01-12T11:20:00+01:00,true
+R002,AI09,AI09,OpenStax,textbook section,Systems of Linear Inequalities in Two Variables,https://openstax.org/books/contemporary-mathematics/pages/5-10-systems-of-linear-inequalities-in-two-variables,en,CC BY 4.0,2026-01-12T11:21:00+01:00,true
+R003,AI09,AI09,OpenStax,textbook section,Systems of Linear Equations in Two Variables,https://openstax.org/books/contemporary-mathematics/pages/5-9-systems-of-linear-equations-in-two-variables,en,CC BY 4.0,2026-01-12T11:22:00+01:00,true
+R004,AI09,AI09,OpenStax,textbook section,Graph Basics,https://openstax.org/books/contemporary-mathematics/pages/12-1-graph-basics,en,CC BY 4.0,2026-01-12T11:23:00+01:00,true
+R005,AI09,AI09,OpenStax,textbook section,Graph Structures,https://openstax.org/books/contemporary-mathematics/pages/12-2-graph-structures,en,CC BY 4.0,2026-01-12T11:24:00+01:00,true
+R006,AI09,AI09,OpenStax,textbook section,Comparing Graphs,https://openstax.org/books/contemporary-mathematics/pages/12-3-comparing-graphs,en,CC BY 4.0,2026-01-12T11:25:00+01:00,true
+R007,AI09,AI09,OpenStax,textbook section,Hamilton Cycles,https://openstax.org/books/contemporary-mathematics/pages/12-7-hamilton-cycles,en,CC BY 4.0,2026-01-12T11:26:00+01:00,true
+R008,AI09,AI09,OpenStax,textbook section,Traveling Salesperson Problem,https://openstax.org/books/contemporary-mathematics/pages/12-9-traveling-salesperson-problem,en,CC BY 4.0,2026-01-12T11:27:00+01:00,true
+R009,AI09,AI09,OpenStax,textbook section,Trees,https://openstax.org/books/contemporary-mathematics/pages/12-10-trees,en,CC BY 4.0,2026-01-12T11:28:00+01:00,true
+R010,AI09,AI09,OpenStax,textbook section,Euler Circuits,https://openstax.org/books/contemporary-mathematics/pages/12-5-euler-circuits,en,CC BY 4.0,2026-01-12T11:29:00+01:00,true
+R011,AI09,AI09,OpenStax,textbook section,Introduction to Data Structures and Algorithms,https://openstax.org/books/intro-to-computer-science/pages/3-1-introduction-to-data-structures-and-algorithms,en,CC BY 4.0,2026-01-12T11:30:00+01:00,true
+R012,AI09,AI09,OpenStax,textbook section,Algorithmic Paradigms,https://openstax.org/books/intro-to-computer-science/pages/3-4-algorithmic-paradigms,en,CC BY 4.0,2026-01-12T11:31:00+01:00,true
+R013,AI09,AI09,OpenStax,textbook section,Sample Algorithms by Problem,https://openstax.org/books/intro-to-computer-science/pages/3-5-sample-algorithms-by-problem,en,CC BY 4.0,2026-01-12T11:32:00+01:00,true
+R014,AI09,AI09,MIT OpenCourseWare,course page,Combinatorial Optimization (18.453),https://ocw.mit.edu/courses/18-453-combinatorial-optimization-2019-fall/,en,CC BY-NC-SA 4.0,2026-01-12T11:33:00+01:00,true
+R015,AI09,AI09,MIT OpenCourseWare,course page,Integer Programming and Combinatorial Optimization (15.083J),https://ocw.mit.edu/courses/15-083j-integer-programming-and-combinatorial-optimization-fall-2010/,en,CC BY-NC-SA 4.0,2026-01-12T11:34:00+01:00,true

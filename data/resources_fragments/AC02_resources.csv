@@ -1,0 +1,19 @@
+
+resource_id,uv_id,uv_title,source,resource_type,title,url,language,license,collected_at,download_allowed
+R901,AC02,AC02,MIT OpenCourseWare,course,Foundations of Software Engineering,https://ocw.mit.edu/courses/1-124j-foundations-of-software-engineering-fall-2000/,en,CC BY-NC-SA 4.0,2026-01-12T17:00:00+01:00,True
+R902,AC02,AC02,MIT OpenCourseWare,course,Software Engineering for Web Applications,https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/,en,CC BY-NC-SA 4.0,2026-01-12T17:00:00+01:00,True
+R903,AC02,AC02,MIT OpenCourseWare,course,Software Engineering Concepts,https://ocw.mit.edu/courses/16-355j-software-engineering-concepts-fall-2005/,en,CC BY-NC-SA 4.0,2026-01-12T17:00:00+01:00,True
+R904,AC02,AC02,MIT OpenCourseWare,course,Laboratory in Software Engineering,https://ocw.mit.edu/courses/6-170-laboratory-in-software-engineering-fall-2005/,en,CC BY-NC-SA 4.0,2026-01-12T17:00:00+01:00,True
+R905,AC02,AC02,MIT OpenCourseWare,course,Performance Engineering of Software Systems,https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/,en,CC BY-NC-SA 4.0,2026-01-12T17:00:00+01:00,True
+R906,AC02,AC02,MIT OpenCourseWare,course,Software Construction,https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/,en,CC BY-NC-SA 4.0,2026-01-12T17:00:00+01:00,True
+R907,AC02,AC02,MIT OpenCourseWare,assignment,Software Construction Assignments,https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/pages/problem-sets/,en,CC BY-NC-SA 4.0,2026-01-12T17:00:00+01:00,True
+R908,AC02,AC02,MIT OpenCourseWare,quiz,Performance Engineering Quizzes,https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/pages/quizzes/,en,CC BY-NC-SA 4.0,2026-01-12T17:00:00+01:00,True
+R909,AC02,AC02,OpenStax,textbook section,9.1 Software Engineering Fundamentals,https://openstax.org/books/introduction-computer-science/pages/9-1-software-engineering-fundamentals,en,CC BY 4.0,2026-01-12T17:00:00+01:00,True
+R910,AC02,AC02,OpenStax,textbook section,9.2 Software Engineering Process,https://openstax.org/books/introduction-computer-science/pages/9-2-software-engineering-process,en,CC BY 4.0,2026-01-12T17:00:00+01:00,True
+R911,AC02,AC02,OpenStax,textbook section,9.3 Special Topics,https://openstax.org/books/introduction-computer-science/pages/9-3-special-topics,en,CC BY 4.0,2026-01-12T17:00:00+01:00,True
+R912,AC02,AC02,OpenStax,exercise,Ch. 9 Review Questions,https://openstax.org/books/introduction-computer-science/pages/9-review-questions,en,CC BY 4.0,2026-01-12T17:00:00+01:00,True
+R913,AC02,AC02,OpenStax,exercise,Ch. 9 Practice Exercises,https://openstax.org/books/introduction-computer-science/pages/9-practice-exercises,en,CC BY 4.0,2026-01-12T17:00:00+01:00,True
+R914,AC02,AC02,OpenStax,summary,Ch. 9 Summary,https://openstax.org/books/introduction-computer-science/pages/9-summary,en,CC BY 4.0,2026-01-12T17:00:00+01:00,True
+R915,AC02,AC02,Lumen Learning,article,Reading: Software Development Process,https://courses.lumenlearning.com/sanjacinto-computerapps/chapter/reading-software-development-process/,en,CC BY,2026-01-12T17:00:00+01:00,True
+R916,AC02,AC02,Lumen Learning,article,Reading: Software Development,https://courses.lumenlearning.com/sanjacinto-computerapps/chapter/reading-software-development/,en,CC BY-SA,2026-01-12T17:00:00+01:00,True
+R917,AC02,AC02,Intermediate Agile Software Development,website,About this Site - Intermediate Agile Software Development,https://soft-eng-practicum.github.io/softdev2-resources/about/,en,CC BY-SA 4.0,2026-01-12T17:00:00+01:00,True

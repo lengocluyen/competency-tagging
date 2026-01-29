@@ -1,0 +1,20 @@
+
+resource_id,uv_id,uv_title,source,resource_type,title,url,language,license,collected_at,download_allowed
+R1501,AI14,AI14,MIT OCW,course,Computer Networks,https://ocw.mit.edu/courses/6-829-computer-networks/,en,CC BY-NC-SA 4.0,2026-01-12T15:00:18+01:00,true
+R1502,AI14,AI14,MIT OCW,course,Distributed Computer Systems Engineering,https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering/,en,CC BY-NC-SA 4.0,2026-01-12T15:00:18+01:00,true
+R1503,AI14,AI14,MIT OCW,course,Network and Computer Security,https://ocw.mit.edu/courses/6-857-network-and-computer-security/,en,CC BY-NC-SA 4.0,2026-01-12T15:00:18+01:00,true
+R1504,AI14,AI14,MIT OCW,course,Introduction to EECS II: Digital Communication Systems,https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems/,en,CC BY-NC-SA 4.0,2026-01-12T15:00:18+01:00,true
+R1505,AI14,AI14,MIT OCW,course,Computer System Engineering,https://ocw.mit.edu/courses/6-033-computer-system-engineering/,en,CC BY-NC-SA 4.0,2026-01-12T15:00:18+01:00,true
+R1506,AI14,AI14,OpenStax,section,Distributed File Systems (Section 6.5),https://openstax.org/books/introduction-computer-science/pages/6-5-file-systems,en,CC BY 4.0,2026-01-12T15:00:18+01:00,true
+R1507,AI14,AI14,OpenStax,section,Parallel Programming Models (Section 4.3),https://openstax.org/books/introduction-computer-science/pages/4-3-parallel-programming-models,en,CC BY 4.0,2026-01-12T15:00:18+01:00,true
+R1508,AI14,AI14,OpenStax,section,Network Design Application of Algorithms (Appendix A),https://openstax.org/books/introduction-computer-science/pages/a-network-design-application-of-algorithms,en,CC BY 4.0,2026-01-12T15:00:18+01:00,true
+R1509,AI14,AI14,Lumen Learning,article,I Dream of IoT: Connecting the Physical and Virtual World,https://courses.lumenlearning.com/informationliteracy/chapter/i-dream-of-iot/,en,CC BY,2026-01-12T15:00:18+01:00,true
+R1510,AI14,AI14,Lumen Learning,article,Why It Matters: Cloud Computing,https://courses.lumenlearning.com/waymaker-computerappsformanagers/chapter/why-it-matters-cloud-computing/,en,CC BY,2026-01-12T15:00:18+01:00,true
+R1511,AI14,AI14,Lumen Learning,article,Computer Networks and Cloud Computing,https://courses.lumenlearning.com/wm-introductiontobusiness/chapter/computer-networks-and-cloud-computing/,en,CC BY-NC-SA,2026-01-12T15:00:18+01:00,true
+R1512,AI14,AI14,GNSS-SDR,tutorial,Cross‑Compiling for Embedded Systems,https://gnss-sdr.org/docs/spoons/signal-processing-overview/cross-compiling/,en,CC BY 4.0,2026-01-12T15:00:18+01:00,true
+R1513,AI14,AI14,ArchWiki,guide,Creating cross‑compiling toolchains,https://wiki.archlinux.org/title/Cross-compiling,en,GFDL 1.3,2026-01-12T15:00:18+01:00,true
+R1514,AI14,AI14,Open Textbook,book,Introduction to Computer Networks (Preface and Chapter 1),https://intronetworks.cs.luc.edu/current/html/intro.html,en,CC BY-NC-ND,2026-01-12T15:00:18+01:00,true
+R1515,AI14,AI14,OpenStax,section,Computer Hardware and Networks (Section 1.2),https://openstax.org/books/workplace-software-skills/pages/1-2-computer-hardware-and-networks,en,CC BY 4.0,2026-01-12T15:00:18+01:00,true
+R1516,AI14,AI14,OpenStax,section,"The Internet, Cloud Computing, and the Internet of Things (Section 1.3)",https://openstax.org/books/workplace-software-skills/pages/1-3-the-internet-cloud-computing-and-the-internet-of-things,en,CC BY 4.0,2026-01-12T15:00:18+01:00,true
+R1517,AI14,AI14,OpenStax,section,Introduction to Cloud‑Native Applications (Section 12.1),https://openstax.org/books/introduction-computer-science/pages/12-1-introduction-to-cloud-native-applications,en,CC BY 4.0,2026-01-12T15:00:18+01:00,true
+R1518,AI14,AI14,OpenStax,section,Fundamental Operating System Concepts (Section 6.2),https://openstax.org/books/introduction-computer-science/pages/6-2-fundamental-operating-system-concepts,en,CC BY 4.0,2026-01-12T15:00:18+01:00,true

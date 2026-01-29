@@ -1,0 +1,18 @@
+
+resource_id,uv_id,uv_title,source,resource_type,title,url,language,license,collected_at,download_allowed
+R1,SR10,SR10,MIT OpenCourseWare,course,User Interface Design and Implementation,https://ocw.mit.edu/courses/6-831-6-813-user-interface-design-and-implementation-spring-2011/,en,CC BY-NC-SA 4.0,2026-01-12T12:00:00+01:00,true
+R2,SR10,SR10,MIT OpenCourseWare,course,Ambient Intelligence,https://ocw.mit.edu/courses/mas-961-ambient-intelligence-spring-2004/,en,CC BY-NC-SA 4.0,2026-01-12T12:00:00+01:00,true
+R3,SR10,SR10,MIT OpenCourseWare,course,Conversational Computer Systems,https://ocw.mit.edu/courses/mas-632-conversational-computer-systems-spring-2004/,en,CC BY-NC-SA 4.0,2026-01-12T12:00:00+01:00,true
+R4,SR10,SR10,MIT OpenCourseWare,course,Relational Machines,https://ocw.mit.edu/courses/mas-965-relational-machines-fall-2005/,en,CC BY-NC-SA 4.0,2026-01-12T12:00:00+01:00,true
+R5,SR10,SR10,MIT OpenCourseWare,course,Interactive Music Systems,https://ocw.mit.edu/courses/21m-385-interactive-music-systems-fall-2014/,en,CC BY-NC-SA 4.0,2026-01-12T12:00:00+01:00,true
+R6,SR10,SR10,MIT OpenCourseWare,course,Playful Augmented Reality Audio Design Exploration,https://ocw.mit.edu/courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2017/,en,CC BY-NC-SA 4.0,2026-01-12T12:00:00+01:00,true
+R7,SR10,SR10,OER Commons,module,Basics of UX Design,https://www.oercommons.org/courseware/lesson/85296/overview,en,CC BY,2026-01-12T12:00:00+01:00,true
+R8,SR10,SR10,OER Commons,guide,Universal Design in Digital Interfaces – Microlearning Guide,https://www.oercommons.org/courseware/lesson/68970/overview,en,CC BY-SA 4.0,2026-01-12T12:00:00+01:00,true
+R9,SR10,SR10,FUN MOOC,course,Architecture de l’information (FUN MOOC),https://www.fun-mooc.fr/en/courses/architecture-de-l-information/,en,CC BY-NC-ND,2026-01-12T12:00:00+01:00,true
+R10,SR10,SR10,Pressbooks,book,Web Accessibility for Developers – Introduction,https://pressbooks.vcc.ca/webaccessibility/chapter/introduction/,en,CC BY-SA 4.0,2026-01-12T12:00:00+01:00,true
+R11,SR10,SR10,BCcampus OpenEd,book,Accessibility Toolkit – 2nd Edition,https://opentextbc.ca/accessibilitytoolkit/,en,CC BY 4.0,2026-01-12T12:00:00+01:00,true
+R12,SR10,SR10,Oxford University Press / WordPress,book,Introduction to Human-Computer Interaction (Open Access Book),https://introductiontohci.org/,en,CC BY-NC-ND 4.0,2026-01-12T12:00:00+01:00,true
+R13,SR10,SR10,MIT OpenCourseWare,course,Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft Kinect,https://ocw.mit.edu/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/,en,CC BY-NC-SA 4.0,2026-01-12T12:00:00+01:00,true
+R14,SR10,SR10,Commonwealth of Learning,book,Universal Design for Learning – Introduction,https://openbooks.col.org/universaldesignforlearning/front-matter_introduction.html,en,CC BY-SA 4.0,2026-01-12T12:00:00+01:00,true
+R15,SR10,SR10,OER Commons,guide,Inclusive Design for Learning: An educator’s guide to OER,https://oercommons.org/courseware/lesson/69462/overview,en,CC BY-NC,2026-01-12T12:00:00+01:00,true
+R16,SR10,SR10,Pressbooks,chapter,Inclusive Design – Extending Into the Open,https://ecampusontario.pressbooks.pub/teachingintheopen/chapter/inclusive-accessible-design/,en,CC BY-NC 4.0,2026-01-12T12:00:00+01:00,true

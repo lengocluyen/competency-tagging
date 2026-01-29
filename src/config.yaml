@@ -1,0 +1,53 @@
+
+# Experiment Configuration
+#
+# All code is now in src/
+# All data is now in data/
+#
+# Example usage:
+#   python -m src.runner \
+#     --data_dir data/resources_fragments \
+#     --gold_dir data/golds_fragments \
+#     --competencies data/competencies_utc.jsonl \
+#     --config src/config.yaml \
+#     --output_dir output
+
+# LLM Configuration
+llm_model: "gpt-4o-mini"
+max_retries: 5
+validate_evidence: true
+repair_invalid: true
+
+# Retrieval Configuration
+retrieval_k: 10  # Default, will be swept in experiments
+
+# Graph Reconciliation
+max_labels_per_fragment: 5
+prefer_child: true
+flag_prereq_violations: true
+
+# Aggregation
+aggregation_method: "max"  # Options: "max", "weighted_sum"
+threshold: 0.5  # Default, will be swept in experiments
+top_k_per_resource: 10
+
+# Fragment type weights (optional)
+fragment_type_weights:
+  abstract: 2.0
+  introduction: 1.5
+  method: 1.0
+  results: 0.8
+  conclusion: 1.2
+  default: 1.0
+
+# Cross-validation
+n_folds: 5
+
+# Parameter sweeps
+sweep_retrieval_k: [5, 10, 15, 20]
+sweep_threshold: [0.3, 0.4, 0.5, 0.6]
+
+# OpenAI API Key
+openai_api_key: "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"
+
+

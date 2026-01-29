@@ -1,0 +1,785 @@
+{
+  "competency_id": "GI_C1",
+  "uri": "http://gamaizer.ia/ontology#GI_C1",
+  "label": "Concevoir et développer des logiciels",
+  "description": "Développement logiciel : conception, paradigmes, performance, mise en production, prise en compte des besoins utilisateurs.",
+  "label_fr": "Concevoir et développer des logiciels",
+  "label_en": "Design and develop software",
+  "aliases_fr": [
+    "Concevoir et développer des logiciels",
+    "Concevoir et developper des logiciels"
+  ],
+  "aliases_en": [
+    "Design and develop software",
+    "Software design and development"
+  ],
+  "neighbors": {
+    "parent": [],
+    "children": ["GI_C1_1", "GI_C1_2", "GI_C1_3", "GI_C1_4"]
+  },
+  "uv_ids": []
+}
+{
+  "competency_id": "GI_C1_1",
+  "uri": "http://gamaizer.ia/ontology#GI_C1_1",
+  "label": "Développement logiciel (conception, paradigmes, performance, déploiement)",
+  "description": "Développer des logiciels et réaliser la conception logicielle (paradigmes, performance, mise en production) en répondant aux besoins utilisateurs.",
+  "label_fr": "Développement logiciel (conception, paradigmes, performance, déploiement)",
+  "label_en": "Software development (design, paradigms, performance, deployment)",
+  "aliases_fr": [
+    "Développement logiciel (conception, paradigmes, performance, déploiement)",
+    "Developpement logiciel (conception, paradigmes, performance, deploiement)",
+    "Développement logiciel",
+    "Conception logicielle",
+    "Paradigmes de programmation",
+    "Performance logicielle",
+    "Déploiement logiciel",
+    "Mise en production"
+  ],
+  "aliases_en": [
+    "Software development (design, paradigms, performance, deployment)",
+    "Software design and development",
+    "Software design",
+    "Programming paradigms",
+    "Software performance",
+    "Software deployment",
+    "Production deployment",
+    "Release to production",
+    "Develop software"
+  ],
+  "neighbors": {
+    "parent": ["GI_C1"],
+    "children": []
+  },
+  "uv_ids": ["AC02", "AI01", "AI15", "AI21", "AI22", "AI29", "AP01", "IQ01", "LO21", "NF11", "NF16", "SR01"]
+}
+{
+  "competency_id": "GI_C1_2",
+  "uri": "http://gamaizer.ia/ontology#GI_C1_2",
+  "label": "Qualité logicielle et ingénierie soutenable",
+  "description": "Assurer la qualité logicielle : V&V, sûreté, méthodes formelles, gestion de projet et prise en compte d’enjeux de soutenabilité.",
+  "label_fr": "Qualité logicielle et ingénierie soutenable",
+  "label_en": "Software quality and sustainable engineering",
+  "aliases_fr": [
+    "Qualité logicielle et ingénierie soutenable",
+    "Qualite logicielle et ingenierie soutenable",
+    "Qualité logicielle",
+    "Ingénierie soutenable",
+    "V&V",
+    "Vérification et validation",
+    "Sûreté",
+    "Méthodes formelles",
+    "Gestion de projet"
+  ],
+  "aliases_en": [
+    "Software quality and sustainable engineering",
+    "Software quality",
+    "Sustainable engineering",
+    "Verification and validation",
+    "V&V",
+    "Safety and dependability",
+    "Formal methods",
+    "Project management",
+    "Sustainability considerations"
+  ],
+  "neighbors": {
+    "parent": ["GI_C1"],
+    "children": []
+  },
+  "uv_ids": ["AI03", "AI12", "AI20", "LO22", "LO23"]
+}
+{
+  "competency_id": "GI_C1_3",
+  "uri": "http://gamaizer.ia/ontology#GI_C1_3",
+  "label": "IHM et UX (mobile/VR/AR)",
+  "description": "Concevoir et développer des interfaces homme-machine (mobile/VR/AR) avec prototypage, UX, accessibilité/ergonomie et sécurité.",
+  "label_fr": "IHM et UX (mobile/VR/AR)",
+  "label_en": "HCI and UX (mobile/VR/AR)",
+  "aliases_fr": [
+    "IHM et UX (mobile/VR/AR)",
+    "Interface homme-machine",
+    "IHM",
+    "UX",
+    "Expérience utilisateur",
+    "Mobile",
+    "Réalité virtuelle",
+    "Réalité augmentée",
+    "VR",
+    "AR",
+    "Prototypage",
+    "Accessibilité",
+    "Ergonomie"
+  ],
+  "aliases_en": [
+    "HCI and UX (mobile/VR/AR)",
+    "Human-computer interaction",
+    "HCI",
+    "User experience",
+    "UX",
+    "Mobile UX",
+    "Virtual reality",
+    "VR",
+    "Augmented reality",
+    "AR",
+    "Prototyping",
+    "Accessibility",
+    "Usability and ergonomics"
+  ],
+  "neighbors": {
+    "parent": ["GI_C1"],
+    "children": []
+  },
+  "uv_ids": ["AI08", "AI16", "AI18", "LO18", "NF28", "RV01", "SR10"]
+}
+{
+  "competency_id": "GI_C1_4",
+  "uri": "http://gamaizer.ia/ontology#GI_C1_4",
+  "label": "Logiciels distribués et passage à l’échelle",
+  "description": "Concevoir et développer des logiciels distribués (concurrence, web/SOA, agents) en maîtrisant scalabilité, mobilité, sécurité et performance.",
+  "label_fr": "Logiciels distribués et passage à l’échelle",
+  "label_en": "Distributed software and scalability",
+  "aliases_fr": [
+    "Logiciels distribués et passage à l’échelle",
+    "Logiciels distribues et passage a l'echelle",
+    "Logiciels distribués",
+    "Systèmes distribués",
+    "Passage à l’échelle",
+    "Scalabilité",
+    "Concurrence",
+    "Web / SOA",
+    "SOA",
+    "Agents",
+    "Mobilité",
+    "Sécurité",
+    "Performance"
+  ],
+  "aliases_en": [
+    "Distributed software and scalability",
+    "Distributed systems",
+    "Scalability",
+    "Scale-out systems",
+    "Concurrency",
+    "Web architectures",
+    "Service-oriented architecture",
+    "SOA",
+    "Agent-based systems",
+    "Mobility",
+    "Security",
+    "Performance"
+  ],
+  "neighbors": {
+    "parent": ["GI_C1"],
+    "children": []
+  },
+  "uv_ids": ["AI13", "AI30", "IA04", "SR03"]
+}
+{
+  "competency_id": "GI_C2",
+  "uri": "http://gamaizer.ia/ontology#GI_C2",
+  "label": "Concevoir et mettre en œuvre des architectures informatiques",
+  "description": "Architectures logicielles, matérielles et réseaux : intégration, administration, performance, durabilité et cybersécurité.",
+  "label_fr": "Concevoir et mettre en œuvre des architectures informatiques",
+  "label_en": "Design and implement computer architectures",
+  "aliases_fr": [
+    "Concevoir et mettre en œuvre des architectures informatiques",
+    "Concevoir et mettre en oeuvre des architectures informatiques",
+    "Architectures informatiques",
+    "Architectures logicielles",
+    "Architectures matérielles",
+    "Architectures réseaux",
+    "Intégration",
+    "Administration",
+    "Performance",
+    "Durabilité",
+    "Cybersécurité"
+  ],
+  "aliases_en": [
+    "Design and implement computer architectures",
+    "Computer architectures",
+    "Software architectures",
+    "Hardware architectures",
+    "Network architectures",
+    "Integration",
+    "Administration and operations",
+    "Performance",
+    "Sustainability",
+    "Cybersecurity"
+  ],
+  "neighbors": {
+    "parent": [],
+    "children": ["GI_C2_1", "GI_C2_2", "GI_C2_3"]
+  },
+  "uv_ids": []
+}
+{
+  "competency_id": "GI_C2_1",
+  "uri": "http://gamaizer.ia/ontology#GI_C2_1",
+  "label": "Architectures logicielles et matérielles (ressources/énergie)",
+  "description": "Concevoir des architectures logicielles et matérielles (capteurs/actionneurs, calculateurs, OS) en intégrant contraintes de ressources, d’énergie et de durabilité.",
+  "label_fr": "Architectures logicielles et matérielles (ressources/énergie)",
+  "label_en": "Software and hardware architectures (resources/energy)",
+  "aliases_fr": [
+    "Architectures logicielles et matérielles (ressources/énergie)",
+    "Architectures logicielles et materielles (ressources/energie)",
+    "Architectures logicielles",
+    "Architectures matérielles",
+    "Contraintes de ressources",
+    "Contraintes d’énergie",
+    "Durabilité",
+    "Capteurs",
+    "Actionneurs",
+    "Calculateurs",
+    "Systèmes d’exploitation",
+    "OS"
+  ],
+  "aliases_en": [
+    "Software and hardware architectures (resources/energy)",
+    "Software architectures",
+    "Hardware architectures",
+    "Resource constraints",
+    "Energy constraints",
+    "Sustainability",
+    "Sensors",
+    "Actuators",
+    "Computing units",
+    "Operating systems",
+    "OS"
+  ],
+  "neighbors": {
+    "parent": ["GI_C2"],
+    "children": []
+  },
+  "uv_ids": ["AI24", "AI26", "MI01", "SR02"]
+}
+{
+  "competency_id": "GI_C2_2",
+  "uri": "http://gamaizer.ia/ontology#GI_C2_2",
+  "label": "Architectures communicantes (réseaux, cloud/fog/IoT)",
+  "description": "Concevoir et opérer des architectures communicantes : réseaux, cloud/fog/IoT, systèmes répartis, administration, optimisation et durabilité.",
+  "label_fr": "Architectures communicantes (réseaux, cloud/fog/IoT)",
+  "label_en": "Communicating architectures (networks, cloud/fog/IoT)",
+  "aliases_fr": [
+    "Architectures communicantes (réseaux, cloud/fog/IoT)",
+    "Architectures communicantes (reseaux, cloud/fog/IoT)",
+    "Architectures communicantes",
+    "Réseaux",
+    "Cloud",
+    "Fog computing",
+    "IoT",
+    "Internet des objets",
+    "Systèmes répartis",
+    "Administration",
+    "Optimisation",
+    "Durabilité"
+  ],
+  "aliases_en": [
+    "Communicating architectures (networks, cloud/fog/IoT)",
+    "Networked architectures",
+    "Networks",
+    "Cloud computing",
+    "Fog computing",
+    "IoT",
+    "Internet of Things",
+    "Distributed systems",
+    "Administration and operations",
+    "Optimization",
+    "Sustainability"
+  ],
+  "neighbors": {
+    "parent": ["GI_C2"],
+    "children": []
+  },
+  "uv_ids": ["AI05", "AI14", "SR04", "SR05", "SR08", "SY26"]
+}
+{
+  "competency_id": "GI_C2_3",
+  "uri": "http://gamaizer.ia/ontology#GI_C2_3",
+  "label": "Architectures sûres et cybersécurité",
+  "description": "Concevoir des systèmes sûrs et sécurisés : analyse de risques, cryptographie, protection, résilience, détection d’intrusions et aspects réglementaires.",
+  "label_fr": "Architectures sûres et cybersécurité",
+  "label_en": "Safe architectures and cybersecurity",
+  "aliases_fr": [
+    "Architectures sûres et cybersécurité",
+    "Architectures sures et cybersecurite",
+    "Architectures sûres",
+    "Cybersécurité",
+    "Analyse de risques",
+    "Cryptographie",
+    "Protection",
+    "Résilience",
+    "Détection d’intrusions",
+    "Aspects réglementaires"
+  ],
+  "aliases_en": [
+    "Safe architectures and cybersecurity",
+    "Cybersecurity",
+    "Secure architectures",
+    "Risk analysis",
+    "Cryptography",
+    "Protection mechanisms",
+    "Resilience",
+    "Intrusion detection",
+    "Regulatory and compliance aspects"
+  ],
+  "neighbors": {
+    "parent": ["GI_C2"],
+    "children": []
+  },
+  "uv_ids": ["AI33", "AI37", "SR06", "SR07", "SR09"]
+}
+{
+  "competency_id": "GI_C3",
+  "uri": "http://gamaizer.ia/ontology#GI_C3",
+  "label": "Concevoir et mettre en œuvre des systèmes de traitement et d’analyse des données et des connaissances",
+  "description": "Données et connaissances : bases de données, représentation des connaissances, data science/IA, enjeux éthiques et réglementaires.",
+  "label_fr": "Concevoir et mettre en œuvre des systèmes de traitement et d’analyse des données et des connaissances",
+  "label_en": "Design and implement data and knowledge processing and analytics systems",
+  "aliases_fr": [
+    "Concevoir et mettre en œuvre des systèmes de traitement et d’analyse des données et des connaissances",
+    "Concevoir et mettre en oeuvre des systèmes de traitement et d'analyse des données et des connaissances",
+    "Systèmes de traitement des données",
+    "Analyse des données",
+    "Systèmes de traitement des connaissances",
+    "Analyse des connaissances"
+  ],
+  "aliases_en": [
+    "Design and implement data and knowledge processing and analytics systems",
+    "Data processing systems",
+    "Data analytics systems",
+    "Knowledge processing systems",
+    "Knowledge analytics",
+    "Data and knowledge management systems"
+  ],
+  "neighbors": {
+    "parent": [],
+    "children": ["GI_C3_1", "GI_C3_2", "GI_C3_3"]
+  },
+  "uv_ids": []
+}
+{
+  "competency_id": "GI_C3_1",
+  "uri": "http://gamaizer.ia/ontology#GI_C3_1",
+  "label": "Représentation et raisonnement sur les connaissances (logique/ontologies)",
+  "description": "Représenter, modéliser et raisonner sur les connaissances (logique, ontologies, web sémantique) en intégrant éthique, biais et cadre réglementaire.",
+  "label_fr": "Représentation et raisonnement sur les connaissances (logique/ontologies)",
+  "label_en": "Knowledge representation and reasoning (logic/ontologies)",
+  "aliases_fr": [
+    "Représentation et raisonnement sur les connaissances (logique/ontologies)",
+    "Representation et raisonnement sur les connaissances (logique/ontologies)",
+    "Représentation des connaissances",
+    "Raisonnement sur les connaissances",
+    "Logique",
+    "Ontologies",
+    "Web sémantique",
+    "Raisonnement automatique",
+    "Éthique et biais",
+    "Cadre réglementaire"
+  ],
+  "aliases_en": [
+    "Knowledge representation and reasoning (logic/ontologies)",
+    "Knowledge representation",
+    "Knowledge reasoning",
+    "Logic",
+    "Ontologies",
+    "Semantic Web",
+    "Automated reasoning",
+    "Ethics and bias",
+    "Regulatory framework"
+  ],
+  "neighbors": {
+    "parent": ["GI_C3"],
+    "children": []
+  },
+  "uv_ids": ["AI02", "AI11", "AI27", "AI30", "IA01", "IA02", "IA03", "IA04"]
+}
+{
+  "competency_id": "GI_C3_2",
+  "uri": "http://gamaizer.ia/ontology#GI_C3_2",
+  "label": "Données et bases de données (SQL/NoSQL) & décision",
+  "description": "Modéliser, stocker et interroger les données (relationnel/NoSQL) et soutenir la décision, avec exigences de sécurité, d’éthique et de conformité.",
+  "label_fr": "Données et bases de données (SQL/NoSQL) & décision",
+  "label_en": "Data and databases (SQL/NoSQL) and decision support",
+  "aliases_fr": [
+    "Données et bases de données (SQL/NoSQL) & décision",
+    "Donnees et bases de donnees (SQL/NoSQL) & decision",
+    "Bases de données",
+    "SQL",
+    "NoSQL",
+    "Modélisation de données",
+    "Stockage des données",
+    "Interrogation des données",
+    "Soutien à la décision",
+    "Sécurité, éthique et conformité"
+  ],
+  "aliases_en": [
+    "Data and databases (SQL/NoSQL) and decision support",
+    "Databases",
+    "SQL",
+    "NoSQL",
+    "Data modeling",
+    "Data storage",
+    "Data querying",
+    "Decision support",
+    "Security, ethics, and compliance"
+  ],
+  "neighbors": {
+    "parent": ["GI_C3"],
+    "children": []
+  },
+  "uv_ids": ["AI07", "AI23", "NF18", "NF26"]
+}
+{
+  "competency_id": "GI_C3_3",
+  "uri": "http://gamaizer.ia/ontology#GI_C3_3",
+  "label": "Data science / ML / NLP",
+  "description": "Analyser les données par des méthodes statistiques et d’apprentissage (ML, NLP, embeddings, classification, visualisation) en intégrant éthique, biais et réglementation.",
+  "label_fr": "Data science / ML / NLP",
+  "label_en": "Data science / ML / NLP",
+  "aliases_fr": [
+    "Data science / ML / NLP",
+    "Science des données",
+    "Apprentissage automatique",
+    "Traitement du langage naturel",
+    "ML",
+    "NLP",
+    "Embeddings",
+    "Classification",
+    "Visualisation",
+    "Méthodes statistiques",
+    "Éthique, biais et réglementation"
+  ],
+  "aliases_en": [
+    "Data science / ML / NLP",
+    "Data science",
+    "Machine learning",
+    "Natural language processing",
+    "ML",
+    "NLP",
+    "Embeddings",
+    "Classification",
+    "Visualization",
+    "Statistical methods",
+    "Ethics, bias, and regulation"
+  ],
+  "neighbors": {
+    "parent": ["GI_C3"],
+    "children": []
+  },
+  "uv_ids": ["AI28", "AI31", "LO17", "ML01", "SY09", "SY19"]
+}
+{
+  "competency_id": "GI_C4",
+  "uri": "http://gamaizer.ia/ontology#GI_C4",
+  "label": "Concevoir et développer des systèmes informatiques pour interagir avec le monde physique",
+  "description": "Systèmes dynamiques, contrôle/commande, robotique, systèmes autonomes, embarqué et temps réel.",
+  "label_fr": "Concevoir et développer des systèmes informatiques pour interagir avec le monde physique",
+  "label_en": "Design and develop computer systems that interact with the physical world",
+  "aliases_fr": [
+    "Concevoir et développer des systèmes informatiques pour interagir avec le monde physique",
+    "Concevoir et developper des systemes informatiques pour interagir avec le monde physique",
+    "Systèmes embarqués",
+    "Temps réel",
+    "Robotique",
+    "Contrôle-commande",
+    "Systèmes dynamiques",
+    "Systèmes autonomes"
+  ],
+  "aliases_en": [
+    "Design and develop computer systems that interact with the physical world",
+    "Cyber-physical systems",
+    "Embedded systems",
+    "Real-time systems",
+    "Robotics",
+    "Control systems",
+    "Dynamic systems",
+    "Autonomous systems"
+  ],
+  "neighbors": {
+    "parent": [],
+    "children": ["GI_C4_1", "GI_C4_2", "GI_C4_3", "GI_C4_4"]
+  },
+  "uv_ids": []
+}
+{
+  "competency_id": "GI_C4_1",
+  "uri": "http://gamaizer.ia/ontology#GI_C4_1",
+  "label": "Modélisation de systèmes dynamiques et simulation",
+  "description": "Modéliser des systèmes dynamiques (continu/discret) et simuler/vérifier leurs propriétés (stabilité, etc.) avec une approche systémique.",
+  "label_fr": "Modélisation de systèmes dynamiques et simulation",
+  "label_en": "Dynamic systems modeling and simulation",
+  "aliases_fr": [
+    "Modélisation de systèmes dynamiques et simulation",
+    "Modelisation de systemes dynamiques et simulation",
+    "Systèmes dynamiques",
+    "Modélisation continu/discret",
+    "Simulation",
+    "Vérification de propriétés",
+    "Stabilité",
+    "Approche systémique"
+  ],
+  "aliases_en": [
+    "Dynamic systems modeling and simulation",
+    "Dynamic systems",
+    "Continuous/discrete modeling",
+    "Simulation",
+    "Property verification",
+    "Stability",
+    "Systems approach"
+  ],
+  "neighbors": {
+    "parent": ["GI_C4"],
+    "children": []
+  },
+  "uv_ids": ["AI04", "AI32", "SY08", "SY14"]
+}
+{
+  "competency_id": "GI_C4_2",
+  "uri": "http://gamaizer.ia/ontology#GI_C4_2",
+  "label": "Contrôle/commande et robotique autonome",
+  "description": "Concevoir des lois de commande (linéaire/non-linéaire, optimale) et des systèmes robotiques autonomes en gérant perception, incertitudes et contraintes sécurité/économie.",
+  "label_fr": "Contrôle/commande et robotique autonome",
+  "label_en": "Control systems and autonomous robotics",
+  "aliases_fr": [
+    "Contrôle/commande et robotique autonome",
+    "Controle/commande et robotique autonome",
+    "Contrôle-commande",
+    "Lois de commande",
+    "Commande linéaire",
+    "Commande non-linéaire",
+    "Commande optimale",
+    "Robotique autonome",
+    "Perception",
+    "Incertitudes",
+    "Contraintes de sécurité"
+  ],
+  "aliases_en": [
+    "Control systems and autonomous robotics",
+    "Control systems",
+    "Control laws",
+    "Linear control",
+    "Nonlinear control",
+    "Optimal control",
+    "Autonomous robotics",
+    "Perception",
+    "Uncertainty handling",
+    "Safety constraints"
+  ],
+  "neighbors": {
+    "parent": ["GI_C4"],
+    "children": []
+  },
+  "uv_ids": ["AI06", "AI32", "AI40", "SY14", "SY15", "SY31"]
+}
+{
+  "competency_id": "GI_C4_3",
+  "uri": "http://gamaizer.ia/ontology#GI_C4_3",
+  "label": "Robotique et systèmes autonomes : architectures et expérimentation",
+  "description": "Développer des architectures de contrôle modulaires/réparties avec IA, et mener des expérimentations (simulation/réel) selon une démarche scientifique.",
+  "label_fr": "Robotique et systèmes autonomes : architectures et expérimentation",
+  "label_en": "Robotics and autonomous systems: architectures and experimentation",
+  "aliases_fr": [
+    "Robotique et systèmes autonomes : architectures et expérimentation",
+    "Robotique et systemes autonomes : architectures et experimentation",
+    "Architectures de contrôle",
+    "Contrôle modulaire",
+    "Contrôle réparti",
+    "IA pour la robotique",
+    "Expérimentation",
+    "Simulation / réel",
+    "Démarche scientifique"
+  ],
+  "aliases_en": [
+    "Robotics and autonomous systems: architectures and experimentation",
+    "Robotics and autonomous systems",
+    "Control architectures",
+    "Modular control",
+    "Distributed control",
+    "AI for robotics",
+    "Experimentation",
+    "Simulation-to-real",
+    "Scientific methodology"
+  ],
+  "neighbors": {
+    "parent": ["GI_C4"],
+    "children": []
+  },
+  "uv_ids": ["AI34", "SY27", "SY28", "SY32"]
+}
+{
+  "competency_id": "GI_C4_4",
+  "uri": "http://gamaizer.ia/ontology#GI_C4_4",
+  "label": "Embarqué et temps réel",
+  "description": "Développer des systèmes embarqués/temps réel : compilation croisée, OS embarqués, ordonnancement, WCET, approche modèle et contraintes matérielles/soutenabilité.",
+  "label_fr": "Embarqué et temps réel",
+  "label_en": "Embedded and real-time systems",
+  "aliases_fr": [
+    "Embarqué et temps réel",
+    "Embarque et temps reel",
+    "Systèmes embarqués",
+    "Temps réel",
+    "Compilation croisée",
+    "OS embarqués",
+    "Ordonnancement",
+    "WCET",
+    "Approche modèle",
+    "Contraintes matérielles",
+    "Soutenabilité"
+  ],
+  "aliases_en": [
+    "Embedded and real-time systems",
+    "Embedded systems",
+    "Real-time systems",
+    "Cross-compilation",
+    "Embedded operating systems",
+    "Scheduling",
+    "WCET",
+    "Model-based approach",
+    "Hardware constraints",
+    "Sustainability"
+  ],
+  "neighbors": {
+    "parent": ["GI_C4"],
+    "children": []
+  },
+  "uv_ids": ["AI35", "AI39", "MI11", "MI12"]
+}
+{
+  "competency_id": "GI_C5",
+  "uri": "http://gamaizer.ia/ontology#GI_C5",
+  "label": "Utiliser la modélisation mathématique pour résoudre les problèmes de l’ingénieur",
+  "description": "Modélisation mathématique (déterministe, stochastique, optimisation) au service de la résolution de problèmes d’ingénierie.",
+  "label_fr": "Utiliser la modélisation mathématique pour résoudre les problèmes de l’ingénieur",
+  "label_en": "Use mathematical modeling to solve engineering problems",
+  "aliases_fr": [
+    "Utiliser la modélisation mathématique pour résoudre les problèmes de l’ingénieur",
+    "Utiliser la modelisation mathematique pour resoudre les problemes de l'ingenieur",
+    "Modélisation mathématique",
+    "Résolution de problèmes d’ingénierie",
+    "Modélisation déterministe",
+    "Modélisation stochastique",
+    "Optimisation"
+  ],
+  "aliases_en": [
+    "Use mathematical modeling to solve engineering problems",
+    "Mathematical modeling",
+    "Engineering problem solving",
+    "Deterministic modeling",
+    "Stochastic modeling",
+    "Optimization"
+  ],
+  "neighbors": {
+    "parent": [],
+    "children": ["GI_C5_1", "GI_C5_2", "GI_C5_3"]
+  },
+  "uv_ids": []
+}
+{
+  "competency_id": "GI_C5_1",
+  "uri": "http://gamaizer.ia/ontology#GI_C5_1",
+  "label": "Mathématiques déterministes",
+  "description": "Mobiliser des outils déterministes (algèbre, Fourier, EDL/EDP) pour des applications comme crypto, codage, traitement du signal et raisonnement analytique.",
+  "label_fr": "Mathématiques déterministes",
+  "label_en": "Deterministic mathematics",
+  "aliases_fr": [
+    "Mathématiques déterministes",
+    "Mathematiques deterministes",
+    "Algèbre",
+    "Fourier",
+    "EDL",
+    "EDP",
+    "Cryptographie",
+    "Codage",
+    "Traitement du signal",
+    "Raisonnement analytique"
+  ],
+  "aliases_en": [
+    "Deterministic mathematics",
+    "Algebra",
+    "Fourier analysis",
+    "ODE",
+    "PDE",
+    "EDL",
+    "EDP",
+    "Cryptography",
+    "Coding theory",
+    "Signal processing",
+    "Analytical reasoning"
+  ],
+  "neighbors": {
+    "parent": ["GI_C5"],
+    "children": []
+  },
+  "uv_ids": ["AC05", "MT09", "MT10", "MT12", "SY06"]
+}
+{
+  "competency_id": "GI_C5_2",
+  "uri": "http://gamaizer.ia/ontology#GI_C5_2",
+  "label": "Modélisation stochastique et statistique",
+  "description": "Mobiliser probabilités/statistiques (Monte-Carlo, Markov, tests) pour l’évaluation de performance et l’analyse de données.",
+  "label_fr": "Modélisation stochastique et statistique",
+  "label_en": "Stochastic and statistical modeling",
+  "aliases_fr": [
+    "Modélisation stochastique et statistique",
+    "Modelisation stochastique et statistique",
+    "Probabilités",
+    "Statistiques",
+    "Monte-Carlo",
+    "Chaînes de Markov",
+    "Tests statistiques",
+    "Évaluation de performance",
+    "Analyse de données"
+  ],
+  "aliases_en": [
+    "Stochastic and statistical modeling",
+    "Stochastic modeling",
+    "Statistical modeling",
+    "Probability",
+    "Statistics",
+    "Monte Carlo",
+    "Markov chains",
+    "Statistical tests",
+    "Performance evaluation",
+    "Data analysis"
+  ],
+  "neighbors": {
+    "parent": ["GI_C5"],
+    "children": []
+  },
+  "uv_ids": ["AC04", "RO05", "SY02"]
+}
+{
+  "competency_id": "GI_C5_3",
+  "uri": "http://gamaizer.ia/ontology#GI_C5_3",
+  "label": "Combinatoire et optimisation",
+  "description": "Résoudre des problèmes complexes sous contraintes par la combinatoire/optimisation (graphes, PL/PNL, heuristiques) et une démarche de recherche.",
+  "label_fr": "Combinatoire et optimisation",
+  "label_en": "Combinatorics and optimization",
+  "aliases_fr": [
+    "Combinatoire et optimisation",
+    "Graphes",
+    "Optimisation sous contraintes",
+    "Programmation linéaire",
+    "PL",
+    "Programmation non linéaire",
+    "PNL",
+    "Heuristiques",
+    "Démarche de recherche"
+  ],
+  "aliases_en": [
+    "Combinatorics and optimization",
+    "Graphs",
+    "Constrained optimization",
+    "Linear programming",
+    "LP",
+    "Nonlinear programming",
+    "PL",
+    "PNL",
+    "Heuristics",
+    "Research approach"
+  ],
+  "neighbors": {
+    "parent": ["GI_C5"],
+    "children": []
+  },
+  "uv_ids": ["AI09", "AI10", "AI25", "RO03", "RO04", "RO06"]
+}

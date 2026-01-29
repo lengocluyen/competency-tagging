@@ -1,0 +1,19 @@
+
+resource_id,uv_id,uv_title,source,resource_type,title,url,language,license,collected_at,download_allowed
+R201,SR02,SR02,MIT OpenCourseWare,course,Sensor Technologies for Interactive Environments,https://ocw.mit.edu/courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011/,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R202,SR02,SR02,MIT OpenCourseWare,course,Computer System Architecture,https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R203,SR02,SR02,MIT OpenCourseWare,course,Computer System Engineering,https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R204,SR02,SR02,MIT OpenCourseWare,course,Operating System Engineering,https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R205,SR02,SR02,MIT OpenCourseWare,course,Introduction to Sustainable Energy,https://ocw.mit.edu/courses/22-081j-introduction-to-sustainable-energy-fall-2010/,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R206,SR02,SR02,MIT OpenCourseWare,article,MIT Energy Collection Overview,https://ocw.mit.edu/collections/energy/,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R207,SR02,SR02,MIT OpenCourseWare,lecture,Computation Structures: Design Trade‑offs and Power Dissipation,https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c8/c8s1/,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R208,SR02,SR02,OpenStax,textbook_section,Models of Computation,https://openstax.org/books/introduction-computer-science/pages/4-1-models-of-computation,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R209,SR02,SR02,OpenStax,textbook_section,What Is an Operating System?,https://openstax.org/books/introduction-computer-science/pages/6-1-what-is-an-operating-system,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R210,SR02,SR02,OpenStax,textbook_section,Fundamental OS Concepts,https://openstax.org/books/introduction-computer-science/pages/6-2-fundamental-os-concepts,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R211,SR02,SR02,OpenStax,textbook_section,Processes and Concurrency,https://openstax.org/books/introduction-computer-science/pages/6-3-processes-and-concurrency,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R212,SR02,SR02,OpenStax,textbook_section,Memory Management,https://openstax.org/books/introduction-computer-science/pages/6-4-memory-management,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R213,SR02,SR02,OpenStax,textbook_section,File Systems,https://openstax.org/books/introduction-computer-science/pages/6-5-file-systems,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R214,SR02,SR02,OpenStax,textbook_section,Reliability and Security,https://openstax.org/books/introduction-computer-science/pages/6-6-reliability-and-security,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R215,SR02,SR02,OpenStax,exercise,Operating Systems Review Questions,https://openstax.org/books/introduction-computer-science/pages/6-7-review-questions,en,CC BY 4.0,2026-01-12T10:00:00+01:00,true
+R216,SR02,SR02,Lumen Learning,article,I Dream of IoT: Connecting the Physical and Virtual World,https://courses.lumenlearning.com/ivytech-informationliteracy-1/chapter/i-dream-of-iot-connecting-the-physical-and-virtual-world/,en,CC BY,2026-01-12T10:00:00+01:00,true
+R217,SR02,SR02,Lumen Learning,article,Reading: Computer Network,https://courses.lumenlearning.com/ivytech-informationtechnology/chapter/reading-computer-network/,en,CC BY-SA,2026-01-12T10:00:00+01:00,true

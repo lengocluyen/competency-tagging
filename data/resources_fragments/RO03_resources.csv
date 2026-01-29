@@ -1,0 +1,17 @@
+
+resource_id,uv_id,uv_title,source,resource_type,title,url,language,license,collected_at,download_allowed
+R001,RO03,RO03,MIT OpenCourseWare,lecture notes,Chapter 5: Graph Theory (6.042J Mathematics for Computer Science),https://openlearninglibrary.mit.edu/assets/courseware/v1/94737105f0d37a37e64f6b2e5b1e2e1e/asset-v1:MITx+6.042J+2019_T1+type@asset+block/Notes-chapter5.pdf,en,CC BY-NC-SA 4.0,2026-01-12T10:00:00+01:00,true
+R002,RO03,RO03,OpenStax,textbook chapter,7.1 The Multiplication Rule for Counting,https://openstax.org/books/contemporary-mathematics/pages/7-1-the-multiplication-rule-for-counting,en,CC BY 4.0,2026-01-12T10:01:00+01:00,true
+R003,RO03,RO03,OpenStax,textbook chapter,7.2 Permutations,https://openstax.org/books/contemporary-mathematics/pages/7-2-permutations,en,CC BY 4.0,2026-01-12T10:02:00+01:00,true
+R004,RO03,RO03,OpenStax,textbook chapter,7.3 Combinations,https://openstax.org/books/contemporary-mathematics/pages/7-3-combinations,en,CC BY 4.0,2026-01-12T10:03:00+01:00,true
+R005,RO03,RO03,OpenStax,textbook chapter,"7.4 Tree Diagrams, Tables, and Outcomes",https://openstax.org/books/contemporary-mathematics/pages/7-4-tree-diagrams-tables-and-outcomes,en,CC BY 4.0,2026-01-12T10:04:00+01:00,true
+R006,RO03,RO03,OpenStax,textbook chapter,7.6 Probability with Permutations and Combinations,https://openstax.org/books/contemporary-mathematics/pages/7-6-probability-with-permutations-and-combinations,en,CC BY 4.0,2026-01-12T10:05:00+01:00,true
+R007,RO03,RO03,OpenStax,textbook chapter,7.7 What Are the Odds?,https://openstax.org/books/contemporary-mathematics/pages/7-7-what-are-the-odds,en,CC BY 4.0,2026-01-12T10:06:00+01:00,true
+R008,RO03,RO03,OpenStax,textbook chapter,12.1 Graph Basics,https://openstax.org/books/contemporary-mathematics/pages/12-1-graph-basics,en,CC BY 4.0,2026-01-12T10:07:00+01:00,true
+R009,RO03,RO03,OpenStax,textbook chapter,12.2 Graph Structures,https://openstax.org/books/contemporary-mathematics/pages/12-2-graph-structures,en,CC BY 4.0,2026-01-12T10:08:00+01:00,true
+R010,RO03,RO03,OpenStax,textbook chapter,12.3 Comparing Graphs,https://openstax.org/books/contemporary-mathematics/pages/12-3-comparing-graphs,en,CC BY 4.0,2026-01-12T10:09:00+01:00,true
+R011,RO03,RO03,OpenStax,textbook chapter,12.4 Navigating Graphs,https://openstax.org/books/contemporary-mathematics/pages/12-4-navigating-graphs,en,CC BY 4.0,2026-01-12T10:10:00+01:00,true
+R012,RO03,RO03,OpenStax,textbook chapter,12.5 Euler Circuits,https://openstax.org/books/contemporary-mathematics/pages/12-5-euler-circuits,en,CC BY 4.0,2026-01-12T10:11:00+01:00,true
+R013,RO03,RO03,Lumen Learning,course section,Solving Problems (Introduction to Psychology),https://courses.lumenlearning.com/waymaker-psychology/chapter/problem-solving/,en,CC BY 4.0,2026-01-12T10:12:00+01:00,true
+R014,RO03,RO03,OpenStax,textbook chapter,Chapter 12 Introduction,https://openstax.org/books/contemporary-mathematics/pages/12-introduction,en,CC BY 4.0,2026-01-12T10:13:00+01:00,true
+R015,RO03,RO03,OpenStax,textbook chapter,Chapter 7 Key Concepts,https://openstax.org/books/contemporary-mathematics/pages/7-key-concepts,en,CC BY 4.0,2026-01-12T10:14:00+01:00,true
